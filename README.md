@@ -1,7 +1,5 @@
 # SWE
 
-# My third Repository
+# My Repository
 
-#dsfgfosdfjg
-
-Marcin stinkt haha
+#dsf
