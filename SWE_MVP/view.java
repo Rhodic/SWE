@@ -1,5 +1,5 @@
 package SWE_MVP;
 
-public class view {
+public class View {
     
 }

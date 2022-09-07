@@ -1,8 +1,9 @@
 package SWE_MVP;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-//import model.Model;
 
+import Model;
+import View;
 
 public class Presenter implements ActionListener{
     
